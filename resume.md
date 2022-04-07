@@ -1,10 +1,16 @@
 # Keith Ellingwood III
 
+![Picture of Keith](/assets/img.png)
+
 kje123@uw.edu
 
 http://www.kje123.github.io
 
 http://www.linkedin.com/in/keith-ellingwood-iii
+
+> It's easy to be miserable. Being happy is tougher, and cooler.
+>
+> -Thom Yorke
 
 # Summary
 
@@ -12,7 +18,7 @@ My passion lies in learning different applications of technology and applying th
 
 # Education
 
-## University of Washington (Seattle, WA)
+## [University of Washington](https://www.washington.edu/) (Seattle, WA)
 
 *B.A Geography, Data Science, B.S. Informatics*
 
@@ -21,7 +27,7 @@ My passion lies in learning different applications of technology and applying th
 
 # Work Experience (only last 10 years)
 
-## Office Depot (Arlington, WA)
+## [Office Depot](https://www.officedepot.com/) (Arlington, WA)
 
 *Technical Specialist, Print Specialist (June 2016 - September 2018)*
 
@@ -30,7 +36,7 @@ My passion lies in learning different applications of technology and applying th
 - Trained other IT workers.
 - Formally trained in copy and print center procedures.
 
-## University of Washington Applied Physics Laboratory (Seattle, WA)
+## [University of Washington Applied Physics Laboratory](https://www.apl.washington.edu/) (Seattle, WA)
 
 *Student IT (October 2019 - February 2020)*
 
@@ -39,7 +45,7 @@ My passion lies in learning different applications of technology and applying th
 - Part of an IT helpdesk team, frequently collaborated on projects.
 - Managed a secure network used by staff.
 
-## University of Washington Academic Technologies (Seattle, WA)
+## [University of Washington Academic Technologies](https://academictechnologies.asa.uw.edu/) (Seattle, WA)
 
 *Learning Technologies Consultant (April 2020 - Present)*
 
